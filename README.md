@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+I'm an indie game development, working on the unity game engine while pursuing BTech CS Engineerer degree with AIML specialization.
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshwaranMurugan16&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/VigneshwaranMurugan16/github-readme-stats](https://github.com/VigneshwaranMurugan16/github-readme-stats))
+Here's my stats:
+
+[![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/YaeshwanthUrumaiya/github-readme-stats))
+
 <!--
-**VigneshwaranMurugan16/VigneshwaranMurugan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YaeshwanthUrumaiya/YaeshwanthUrumaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
