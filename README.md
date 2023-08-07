@@ -4,7 +4,7 @@ I'm an indie game development, working on the unity game engine while pursuing B
 
 Here's my stats:
 
-[![YaeshwanthUrumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeshwanthUrumaiya&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/YaeshwanthUrumaiya/github-readme-stats))
+[![VigneshwaranMurugan16's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshwaranMurugan16&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/VigneshwaranMurugan16/github-readme-stats))
 
 <!--
 **YaeshwanthUrumaiya/YaeshwanthUrumaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
