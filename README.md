@@ -1,5 +1,5 @@
 ### Hi there 👋
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshwaranMurugan16&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/VigneshwaranMurugan16/github-readme-stats])
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshwaranMurugan16&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/VigneshwaranMurugan16/github-readme-stats](https://github.com/VigneshwaranMurugan16/github-readme-stats))
 <!--
 **VigneshwaranMurugan16/VigneshwaranMurugan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
