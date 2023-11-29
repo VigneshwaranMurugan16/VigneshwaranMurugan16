@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an indie game development, working on the unity game engine while pursuing BTech CS Engineerer degree with AIML specialization.
+Full-stack developer passionate about creating seamless digital experiences. Currently pursuing B.Tech in CSE with a focus on AI/ML at SRIHER unversity
 
 Here's my stats:
 
